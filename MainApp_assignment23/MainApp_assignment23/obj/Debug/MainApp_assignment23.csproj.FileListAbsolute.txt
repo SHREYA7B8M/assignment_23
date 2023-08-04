@@ -1,0 +1,11 @@
+C:\Users\KIIT\Desktop\Git Exercise\Day_20\MainApp_assignment23\MainApp_assignment23\bin\Debug\MainApp_assignment23.exe.config
+C:\Users\KIIT\Desktop\Git Exercise\Day_20\MainApp_assignment23\MainApp_assignment23\bin\Debug\MainApp_assignment23.exe
+C:\Users\KIIT\Desktop\Git Exercise\Day_20\MainApp_assignment23\MainApp_assignment23\bin\Debug\MainApp_assignment23.pdb
+C:\Users\KIIT\Desktop\Git Exercise\Day_20\MainApp_assignment23\MainApp_assignment23\bin\Debug\MySharedLibrary_assignment23.dll
+C:\Users\KIIT\Desktop\Git Exercise\Day_20\MainApp_assignment23\MainApp_assignment23\bin\Debug\MySharedLibrary_assignment23.pdb
+C:\Users\KIIT\Desktop\Git Exercise\Day_20\MainApp_assignment23\MainApp_assignment23\obj\Debug\MainApp_assignment23.csproj.AssemblyReference.cache
+C:\Users\KIIT\Desktop\Git Exercise\Day_20\MainApp_assignment23\MainApp_assignment23\obj\Debug\MainApp_assignment23.csproj.SuggestedBindingRedirects.cache
+C:\Users\KIIT\Desktop\Git Exercise\Day_20\MainApp_assignment23\MainApp_assignment23\obj\Debug\MainApp_assignment23.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\Desktop\Git Exercise\Day_20\MainApp_assignment23\MainApp_assignment23\obj\Debug\MainApp_assignment23.csproj.CopyComplete
+C:\Users\KIIT\Desktop\Git Exercise\Day_20\MainApp_assignment23\MainApp_assignment23\obj\Debug\MainApp_assignment23.exe
+C:\Users\KIIT\Desktop\Git Exercise\Day_20\MainApp_assignment23\MainApp_assignment23\obj\Debug\MainApp_assignment23.pdb
